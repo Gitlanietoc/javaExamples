@@ -29,7 +29,7 @@ public class EmployeeTest {
       empTwo.printEmployee();
       
       empTwo.empAge(49);
-      empTwo.empDesignation("Luis Nieto");
+      empTwo.empDesignation("Luis Antonio Nieto");
       empTwo.empSalary(1000);
       empTwo.printEmployee();
 
