@@ -27,5 +27,11 @@ public class EmployeeTest {
       empTwo.empDesignation("Software Engineer");
       empTwo.empSalary(500);
       empTwo.printEmployee();
+      
+      empTwo.empAge(49);
+      empTwo.empDesignation("Luis Nieto");
+      empTwo.empSalary(1000);
+      empTwo.printEmployee();
+
    }
 }
